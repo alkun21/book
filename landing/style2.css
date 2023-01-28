@@ -1,0 +1,83 @@
+@font-face {
+	font-family: 'cat';
+	src: url('fonts/brokgauzefron.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/brokgauzefron.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/brokgauzefron.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/brokgauzefron.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/brokgauzefron.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/brokgauzefron.svg') format('svg'); /* Chrome < 4, Legacy iOS */
+
+}
+
+.fer{
+    background-color: rgb(92, 131, 182);
+    padding:25px ;
+    font-size:45px;
+    
+}
+h1{
+    font-family: 'Libre Barcode 39 Text', cursive;
+}
+.h2{
+    font-size:35px;
+}
+.p1{
+    text-decoration: none;
+}
+.p2{
+    font-size:40px;
+    color:rgb(0, 0, 0);
+}
+body{
+    background-image: url(white.jpeg);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size:100%;
+    font-family: 'cat';
+}
+.city1{
+    float: right;
+}
+.firstbook{
+    float:left;
+    margin-right:25px;
+}
+.discreaption{
+    font-weight: 800;
+    margin-right:45px;
+
+}
+.style{
+    font-style:italic;
+    font-variant: small-caps;
+    float: right;
+}
+nav{
+    text-align: center;
+    background-color: rgb(147, 140, 124);
+    border-bottom: 3px solid white;
+}
+nav a{
+    color: rgb(50, 49, 49);
+    text-decoration: none;
+    font-size: 30px;
+    padding-right:20px;
+}
+.wen{
+background-image: url(brick2.jpeg);
+background-repeat: repeat-x;
+background-attachment: fixed;
+background-size:100%;
+}
+.say{
+    color: rgb(47, 36, 3);
+    background-color: rgb(132, 118, 83);
+    padding:30px;
+}
+.lol{
+    background-color: rgba(82, 64, 51, 0.871);
+}
+fieldset{
+    font-size:20px;
+    color:rgb(12, 12, 12)
+}
